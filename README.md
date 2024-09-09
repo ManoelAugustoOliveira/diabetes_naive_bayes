@@ -12,5 +12,6 @@ Onde:
 - P(A) é a probabilidade de A acontecer
 - P(B) é a probabilidade de B acontecer
 
-**Objetivo**: A tarefa de previsão é determinar se um determinado paciente está com diabetes baseado nos seus níveis de glicose e pressão arterial.
-**Resultados**: O modelo estimado apresentou uma recall de 89% na identificação de pacientes com diabetes com uma precisão de 94%.
+**Objetivo**: A tarefa de previsão é determinar se um determinado paciente está com diabetes baseado nos seus níveis de glicose e pressão arterial.  
+
+**Resultados**: O modelo estimado apresentou um recall de 89% na identificação de pacientes com diabetes com uma precisão de 94%.
